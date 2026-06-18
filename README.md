@@ -175,5 +175,5 @@ pixar-films-analysis/
 **Reemika Subrata Das**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-reemikadas-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/reemikadas)
-[![Email](https://img.shields.io/badge/Email-das.reemika%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:das.reemika@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-reemikadas-181717?style=flat&logo=github&logoColor=white)](https://github.com/reemikadas)
+[![Email](https://img.shields.io/badge/Email-das.reemika%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:das.reemika@gmail.com)
